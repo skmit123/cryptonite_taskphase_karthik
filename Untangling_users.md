@@ -67,7 +67,7 @@ pwn.college{8qHiMR8vi2qJe2bQvGr8S6IgAWl.ddTN0UDL4IDO0czW}
 ![s15491910192024](https://a.okmd.dev/md/671387a9117a7.png)
 ![s15494010192024](https://a.okmd.dev/md/671387bdb6a1c.png)
 ### Solution :
-![s15494910192024](https://a.okmd.dev/md/671387c6b4ed4.png)
+![image](https://github.com/user-attachments/assets/98be28dc-a0a8-4902-b2b0-092915171eed)
 ```
 sudo cat /flag
 ```
