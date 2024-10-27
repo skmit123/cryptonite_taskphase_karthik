@@ -74,5 +74,5 @@ sudo cat /flag
 We use sudo to get root access and then read the file flag which gives us the flag.
 ### Flag for the challenge :
 ```
-pwn.college{0H_c_uQ2WVKIIRLZ4UpYqCkj7v-.dhTN0UDL4IDO0czW}
+pwn.college{cZ2oQ2NkaI_c5_C1K-5akFVagOL.dhTN0UDL1ADN1czW}
 ```
